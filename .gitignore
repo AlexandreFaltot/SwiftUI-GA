@@ -1,0 +1,16 @@
+*~
+*.pbxuser
+xcuserdata/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+.DS_Store
+project.xcworkspace/
+
+# Carthage
+#Carthage/Build
+#Carthage/Checkouts
+
+# Fastlane
+fastlane/AuthKey*
+fastlane/cozytouch-*.json
